@@ -1,0 +1,227 @@
+[
+  {
+    "id": 0,
+    "topic": "Stress",
+    "level": 1,
+    "label": "Không giống mình",
+    "english": "Daisy",
+    "name": "Cúc họa mi",
+    "meaning": "Trong trẻo, giản dị, khởi đầu nhẹ nhàng"
+  },
+  {
+    "id": 1,
+    "topic": "Stress",
+    "level": 2,
+    "label": "Hơi giống mình",
+    "english": "Lavender",
+    "name": "Oải hương",
+    "meaning": "Bình yên, thanh thản, thư giãn"
+  },
+  {
+    "id": 2,
+    "topic": "Stress",
+    "level": 3,
+    "label": "Khá giống mình",
+    "english": "Chamomile",
+    "name": "Cúc La Mã",
+    "meaning": "An ủi, hồi phục, bình tĩnh"
+  },
+  {
+    "id": 3,
+    "topic": "Stress",
+    "level": 4,
+    "label": "Rất giống mình",
+    "english": "Cosmos",
+    "name": "Cánh bướm",
+    "meaning": "Hài hòa, cân bằng, trật tự giữa hỗn độn"
+  },
+  {
+    "id": 4,
+    "topic": "Stress",
+    "level": 5,
+    "label": "Chính xác là mình lúc này",
+    "english": "Lotus",
+    "name": "Hoa sen",
+    "meaning": "Bình an nội tâm, vượt lên nghịch cảnh"
+  },
+  {
+    "id": 5,
+    "topic": "Lo âu",
+    "level": 1,
+    "label": "Không giống mình",
+    "english": "Freesia",
+    "name": "Lan Nam Phi",
+    "meaning": "Niềm tin, sự chân thành, cảm giác an toàn"
+  },
+  {
+    "id": 6,
+    "topic": "Lo âu",
+    "level": 2,
+    "label": "Hơi giống mình",
+    "english": "Bluebell",
+    "name": "Chuông xanh",
+    "meaning": "Dịu dàng, khiêm nhường, lòng biết ơn"
+  },
+  {
+    "id": 7,
+    "topic": "Lo âu",
+    "level": 3,
+    "label": "Khá giống mình",
+    "english": "Jasmine",
+    "name": "Hoa nhài",
+    "meaning": "Thanh khiết, bình yên, dịu dàng"
+  },
+  {
+    "id": 8,
+    "topic": "Lo âu",
+    "level": 4,
+    "label": "Rất giống mình",
+    "english": "Iris",
+    "name": "Diên vĩ",
+    "meaning": "Hy vọng, niềm tin, trí tuệ"
+  },
+  {
+    "id": 9,
+    "topic": "Lo âu",
+    "level": 5,
+    "label": "Chính xác là mình lúc này",
+    "english": "Starflower",
+    "name": "Hoa sao",
+    "meaning": "Hy vọng, ánh sáng nhỏ giữa bất an"
+  },
+  {
+    "id": 10,
+    "topic": "Thiếu kết nối / Cô đơn",
+    "level": 1,
+    "label": "Không giống mình",
+    "english": "Pink Rose",
+    "name": "Hồng phấn",
+    "meaning": "Dịu dàng, quan tâm, trân trọng"
+  },
+  {
+    "id": 11,
+    "topic": "Thiếu kết nối / Cô đơn",
+    "level": 2,
+    "label": "Hơi giống mình",
+    "english": "Sweet Pea",
+    "name": "Đậu thơm",
+    "meaning": "Lòng biết ơn, sự thân mật, kết nối nhẹ nhàng"
+  },
+  {
+    "id": 12,
+    "topic": "Thiếu kết nối / Cô đơn",
+    "level": 3,
+    "label": "Khá giống mình",
+    "english": "Pink Carnation",
+    "name": "Cẩm chướng hồng",
+    "meaning": "Tình yêu, sự quan tâm, lòng biết ơn"
+  },
+  {
+    "id": 13,
+    "topic": "Thiếu kết nối / Cô đơn",
+    "level": 4,
+    "label": "Rất giống mình",
+    "english": "Forget-me-not",
+    "name": "Lưu ly",
+    "meaning": "Ký ức, sự gắn bó, được nhớ đến"
+  },
+  {
+    "id": 14,
+    "topic": "Thiếu kết nối / Cô đơn",
+    "level": 5,
+    "label": "Chính xác là mình lúc này",
+    "english": "Primrose",
+    "name": "Anh thảo",
+    "meaning": "Tình cảm chân thành, sự hiện diện, khởi đầu mới"
+  },
+  {
+    "id": 15,
+    "topic": "Mất định hướng",
+    "level": 1,
+    "label": "Không giống mình",
+    "english": "Yellow Tulip",
+    "name": "Tulip vàng",
+    "meaning": "Niềm vui, ánh sáng, sự lạc quan"
+  },
+  {
+    "id": 16,
+    "topic": "Mất định hướng",
+    "level": 2,
+    "label": "Hơi giống mình",
+    "english": "Daffodil",
+    "name": "Thủy tiên vàng",
+    "meaning": "Khởi đầu mới, tái sinh, hy vọng"
+  },
+  {
+    "id": 17,
+    "topic": "Mất định hướng",
+    "level": 3,
+    "label": "Khá giống mình",
+    "english": "Crocus",
+    "name": "Nghệ tây",
+    "meaning": "Hy vọng sau mùa lạnh, sức sống trở lại"
+  },
+  {
+    "id": 18,
+    "topic": "Mất định hướng",
+    "level": 4,
+    "label": "Rất giống mình",
+    "english": "Dandelion",
+    "name": "Bồ công anh",
+    "meaning": "Tự do, ước mơ, khả năng thích nghi"
+  },
+  {
+    "id": 19,
+    "topic": "Mất định hướng",
+    "level": 5,
+    "label": "Chính xác là mình lúc này",
+    "english": "Protea",
+    "name": "Protea",
+    "meaning": "Biến đổi, dũng khí, sức mạnh nội tại"
+  },
+  {
+    "id": 20,
+    "topic": "Khó chăm sóc bản thân",
+    "level": 1,
+    "label": "Không giống mình",
+    "english": "White Camellia",
+    "name": "Trà trắng",
+    "meaning": "Trân trọng, tinh tế, vẻ đẹp giản dị"
+  },
+  {
+    "id": 21,
+    "topic": "Khó chăm sóc bản thân",
+    "level": 2,
+    "label": "Hơi giống mình",
+    "english": "Gardenia",
+    "name": "Dành dành",
+    "meaning": "Dịu dàng, bình yên, yêu thương chân thành"
+  },
+  {
+    "id": 22,
+    "topic": "Khó chăm sóc bản thân",
+    "level": 3,
+    "label": "Khá giống mình",
+    "english": "Ranunculus",
+    "name": "Mao lương",
+    "meaning": "Vẻ đẹp bên trong, sự trân trọng"
+  },
+  {
+    "id": 23,
+    "topic": "Khó chăm sóc bản thân",
+    "level": 4,
+    "label": "Rất giống mình",
+    "english": "Peony",
+    "name": "Mẫu đơn",
+    "meaning": "Sự đủ đầy, chữa lành, lòng trắc ẩn"
+  },
+  {
+    "id": 24,
+    "topic": "Khó chăm sóc bản thân",
+    "level": 5,
+    "label": "Chính xác là mình lúc này",
+    "english": "Magnolia",
+    "name": "Mộc lan",
+    "meaning": "Phẩm giá, sức mạnh nội tâm, sự bền bỉ"
+  }
+]

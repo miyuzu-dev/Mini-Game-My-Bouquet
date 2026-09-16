@@ -1,0 +1,12 @@
+{
+  "source": "flower_game_3125_most_tender_letters_spaced.xlsx",
+  "sha256": "4026808b0447aaf43404b8c72388957fef3100bd0289fc6ab2b1ea5b78751c5f",
+  "flowerCount": 25,
+  "letterCount": 3125,
+  "uniqueLetters": 3125,
+  "sheets": [
+    "Mapping 25 hoa",
+    "3125 tổ hợp"
+  ],
+  "preservedVerbatim": true
+}

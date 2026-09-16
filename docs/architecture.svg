@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850" role="img" aria-labelledby="title desc">
+<title id="title">My Bouquet — Sơ đồ kiến trúc</title><desc id="desc">Người chơi tương tác React. Tiến trình lưu LocalStorage. React lấy thư từ API Express trên Render; API tra cứu JSON 3125 thư.</desc>
+<defs><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M0 0h2v2H0Z" fill="#ded5d7"/></pattern><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto-start-reverse"><path d="M0 0L8 4L0 8Z" fill="#79627b"/></marker></defs>
+<rect width="1200" height="850" fill="#fff9ec"/><rect width="1200" height="850" fill="url(#grid)"/>
+<text x="600" y="56" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="36" fill="#59465e" font-weight="700">MY BOUQUET</text>
+<text x="600" y="86" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="400">Kiến trúc React + Express • HW4</text>
+<path d="M445 117h320v74h-320Z" fill="#ddcddb"/><rect x="440" y="112" width="320" height="74" fill="#fff1cc" stroke="#8b728c" stroke-width="2"/>
+<text x="600.0" y="141" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="700">NGƯỜI CHƠI</text>
+<text x="600.0" y="167" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">Trả lời · Trang trí · Chăm hoa</text>
+<path d="M600 186V225" fill="none" stroke="#79627b" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M65 235h510v290h-510Z" fill="#ddcddb"/><rect x="60" y="230" width="510" height="290" fill="#fbe1eb" stroke="#8b728c" stroke-width="2"/>
+<text x="315.0" y="259" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="700">FRONTEND · REACT / VITE</text>
+<text x="315.0" y="285" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">Triển khai dự kiến: Vercel</text>
+<path d="M89 315h218v81h-218Z" fill="#ddcddb"/><rect x="84" y="310" width="218" height="81" fill="#fff8e9" stroke="#8b728c" stroke-width="2"/>
+<text x="193.0" y="339" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="700">Luồng chơi</text>
+<text x="193.0" y="365" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">Câu hỏi → Hoa → Góc nhỏ</text>
+<path d="M331 315h218v81h-218Z" fill="#ddcddb"/><rect x="326" y="310" width="218" height="81" fill="#fff8e9" stroke="#8b728c" stroke-width="2"/>
+<text x="435.0" y="339" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="700">Hình ảnh và nhạc</text>
+<text x="435.0" y="365" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">SVG / CSS · Web Audio</text>
+<path d="M89 418h218v81h-218Z" fill="#ddcddb"/><rect x="84" y="413" width="218" height="81" fill="#fff8e9" stroke="#8b728c" stroke-width="2"/>
+<text x="193.0" y="442" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="700">Chăm hoa · Sổ hoa</text>
+<text x="193.0" y="468" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">Tiến trình trên trình duyệt</text>
+<path d="M331 418h218v81h-218Z" fill="#ddcddb"/><rect x="326" y="413" width="218" height="81" fill="#fff8e9" stroke="#8b728c" stroke-width="2"/>
+<text x="435.0" y="442" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="700">API client</text>
+<text x="435.0" y="468" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">Lấy thư theo 5 câu trả lời</text>
+<path d="M600 225H315V230" fill="none" stroke="#79627b" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M715 235h430v290h-430Z" fill="#ddcddb"/><rect x="710" y="230" width="430" height="290" fill="#e1eed7" stroke="#8b728c" stroke-width="2"/>
+<text x="925.0" y="259" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="700">BACKEND · NODE.JS + EXPRESS</text>
+<text x="925.0" y="285" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">Triển khai dự kiến: Render</text>
+<path d="M740 315h380v81h-380Z" fill="#ddcddb"/><rect x="735" y="310" width="380" height="81" fill="#fff8e9" stroke="#8b728c" stroke-width="2"/>
+<text x="925.0" y="339" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="700">Định tuyến · CORS · Validation</text>
+<text x="925.0" y="365" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">GET /api/letters/:combination</text>
+<path d="M740 418h380v81h-380Z" fill="#ddcddb"/><rect x="735" y="413" width="380" height="81" fill="#fff8e9" stroke="#8b728c" stroke-width="2"/>
+<text x="925.0" y="442" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="700">Hello World · Health · Flowers</text>
+<text x="925.0" y="468" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">/api/hello · /api/health · /api/flowers</text>
+<path d="M570 337H710" fill="none" stroke="#79627b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="640" y="321" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#59465e" font-weight="700">GET</text>
+<path d="M710 380H570" fill="none" stroke="#79627b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="640" y="403" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#59465e" font-weight="700">JSON thư</text>
+<path d="M65 605h510v120h-510Z" fill="#ddcddb"/><rect x="60" y="600" width="510" height="120" fill="#e8e0f4" stroke="#8b728c" stroke-width="2"/>
+<text x="315.0" y="629" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="700">LOCALSTORAGE</text>
+<text x="315.0" y="655" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">Câu trả lời · Vị trí hoa · Bình và phòng</text>
+<text x="315.0" y="678" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">Hoa đã mở khóa · Ngày chăm · Âm thanh</text>
+<path d="M315 520V600" fill="none" stroke="#79627b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="375" y="564" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#59465e" font-weight="400">Đọc / lưu</text>
+<path d="M715 605h430v120h-430Z" fill="#ddcddb"/><rect x="710" y="600" width="430" height="120" fill="#dfeef4" stroke="#8b728c" stroke-width="2"/>
+<text x="925.0" y="629" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#59465e" font-weight="700">DỮ LIỆU JSON</text>
+<text x="925.0" y="655" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">25 hoa · 3.125 thư nguyên văn từ Excel</text>
+<text x="925.0" y="678" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">Backend đọc vào bộ nhớ khi khởi động</text>
+<path d="M925 600V520" fill="none" stroke="#79627b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="984" y="564" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#59465e" font-weight="400">Tra cứu</text>
+<text x="600" y="776" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#59465e" font-weight="700">5 câu × 5 mức = 3.125 bó hoa • Mỗi tổ hợp tra đúng một lá thư</text>
+<text x="600" y="807" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#59465e" font-weight="400">Không có database hoặc đăng nhập • Tiến trình chưa đồng bộ giữa thiết bị</text>
+</svg>
